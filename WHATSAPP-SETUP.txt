@@ -1,0 +1,3 @@
+Open index.html and find: const WHATSAPP_NUMBER = "";
+Replace it with your number without + or spaces, for example: const WHATSAPP_NUMBER = "2782XXXXXXX";
+Do not use the example as your real number.
